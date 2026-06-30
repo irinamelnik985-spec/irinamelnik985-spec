@@ -1,16 +1,27 @@
-## Hi there 👋
+### Привет 👋 Я Даня
 
-<!--
-**irinamelnik985-spec/irinamelnik985-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**16 лет. Системщик-самоучка, который шипит в прод, а не пишет в стол.**
 
-Here are some ideas to get you started:
+В одиночку держу **Warden SMP** — закрытый Minecraft-сервер на Paper 1.21:
+от железа, сети и Linux-админства до плагинов, ботов и автоматизации деплоя.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### 🛠️ Чем занимаюсь
+- **Плагины Paper/Spigot** (Java) — кастомные механики, события, SQLite
+- **Telegram/Discord-боты** (Python, aiogram 3) — модерация, RCON-мосты, FSM
+- **Серверное админство** (Linux, systemd, RCON, BorgBackup, оптимизация TPS)
+- **Автоматизация** (Python, paramiko, SSH) — деплой, мониторинг, диагностика
+
+#### 📦 Что построил
+- **[SMP Bot](https://github.com/irinamelnik985-spec/SMP_BOT)** — бот сервера: вайтлист, жалобы с фото/видео, мультиадмин-модерация, RCON-мост, мониторинг
+- **WardenEnchants** — 50+ кастомных нативных зачарований (датапак + плагин Java)
+- **WardenMail** — внутрисерверная почта: SQLite, трек-номера, роли курьеров
+
+#### ⚙️ Стек
+`Python` · `Java` · `Linux` · `SQLite` · `Git` · `Bash` · `aiogram` · `Paper API`
+
+---
+
+💼 **Делаю плагины, ботов и настройку Minecraft-серверов под заказ.**
+📬 Telegram: @dz_red0
