@@ -29,10 +29,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-### 📊 Статистика
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=irinamelnik985-spec&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irinamelnik985-spec&layout=compact&theme=tokyonight&hide_border=true"/>
-
 ---
 
 💭 *Я не зубрю теорию ради собеса — я делаю так, чтобы оно работало в проде.*
