@@ -16,10 +16,10 @@
 - **Linux / DevOps** — systemd, RCON, BorgBackup, оптимизация TPS, диагностика железа
 
 ### 📦 Что построил
-- 🪄 **[WardenEnchants](https://github.com/irinamelnik985-spec/WardenEnchants)** — 50+ кастомных нативных зачарований
-- 📬 **[WardenMail](https://github.com/irinamelnik985-spec/WardenMail)** — почта с трек-номерами, ролями и SQLite
-- 🛡️ **[WardenAntiVPN](https://github.com/irinamelnik985-spec/WardenAntiVPN)** — блокировка VPN/прокси + анти-X-Ray
-- 🤖 **[SMP Bot](https://github.com/irinamelnik985-spec/SMP_BOT)** — вайтлист, жалобы с медиа, модерация, RCON-мост
+- 🪄 **[WardenEnchants](https://github.com/dz-red/WardenEnchants)** — 50+ кастомных нативных зачарований
+- 📬 **[WardenMail](https://github.com/dz-red/WardenMail)** — почта с трек-номерами, ролями и SQLite
+- 🛡️ **[WardenAntiVPN](https://github.com/dz-red/WardenAntiVPN)** — блокировка VPN/прокси + анти-X-Ray
+- 🤖 **[SMP Bot](https://github.com/dz-red/SMP_BOT)** — вайтлист, жалобы с медиа, модерация, RCON-мост
 
 ### ⚙️ Стек
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
